@@ -1,4 +1,4 @@
-# Microsoft-Excel-Tutorial-for-Beginners-Full-Course- by freeCodeCamp
+# Microsoft-Excel-Tutorial-for-Beginners-Full-Course - by freeCodeCamp
 
 I've learned how to:
 
